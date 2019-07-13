@@ -1,6 +1,6 @@
 # stateful
 
-A new Flutter project.
+Maps example in flutter
 
 ## Getting Started
 
